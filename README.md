@@ -28,3 +28,5 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
 
+Gabriel Villabon 202013898 g.villabon
+Natali Mercado 202012682 n.mercado
